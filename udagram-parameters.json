@@ -5,7 +5,7 @@
     },
     {
         "ParameterKey": "S3BucketName",
-        "ParameterValue": "my-bucket-1710180238982"
+        "ParameterValue": "my-bucket-1710180238983"
     },
     {
         "ParameterKey": "InstanceType",

@@ -117,9 +117,9 @@ Resources:
       LaunchTemplate:
         LaunchTemplateId: !Ref WebAppLaunchTemplate
         Version: !GetAtt WebAppLaunchTemplate.LatestVersionNumber
-      MinSize: '2'
-      DesiredCapacity: '1'
-      MaxSize: '6'
+      MinSize: 1
+      DesiredCapacity: 2
+      MaxSize: 3
       TargetGroupARNs:
       - Ref: WebAppTargetGroup
 
