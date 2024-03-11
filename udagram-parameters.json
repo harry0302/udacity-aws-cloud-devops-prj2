@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityProject"
+    },
+    {
+        "ParameterKey": "S3BucketName",
+        "ParameterValue": "my-bucket-1710180238982"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.micro"
+    },
+    {
+        "ParameterKey": "InstanceAmiId",
+        "ParameterValue": "ami-07d9b9ddc6cd8dd30"
+    }
+]
